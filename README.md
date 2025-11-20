@@ -2,8 +2,6 @@
 
 ## Tech Stack
 
-This project builds a mobile-friendly feedback webpage for collecting presentation feedback, with data stored in a Supabase database.
-
 ### Frontend
 - **React** (with JSX) for component-based UI development
 - **CSS3** with Bootstrap for responsive, mobile-first design
@@ -18,6 +16,7 @@ This project builds a mobile-friendly feedback webpage for collecting presentati
 
 ### Hosting
 - **GitHub Pages** for static site deployment
+https://github.com/Jasper-van-Boggelen/Vibecode_session.git
 
 ## Project Structure
 - `src/` - React source code
